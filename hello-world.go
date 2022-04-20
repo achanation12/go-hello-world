@@ -2,6 +2,6 @@ package helloworld
 
 import "fmt"
 
-func HelloWorld() {
+func HelloWorld() string {
 	return "hello world"
 }
